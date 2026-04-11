@@ -1,0 +1,7 @@
+flask==3.0.3
+flask-sqlalchemy==3.1.1
+flask-mail==0.10.0
+werkzeug==3.0.3
+gunicorn==22.0.0
+psycopg2-binary==2.9.9
+stripe==10.5.0
