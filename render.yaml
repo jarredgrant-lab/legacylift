@@ -3,7 +3,7 @@ services:
     name: legacylift
     runtime: python
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn legacylift_app_v2:app
+    startCommand: startCommand: gunicorn legacylift_app_v2_:app
     envVars:
       - key: SECRET_KEY
         generateValue: true
