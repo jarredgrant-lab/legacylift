@@ -1024,6 +1024,92 @@ def home():
   </div>
 </div>
 
+<!-- COMPARISON — light -->
+<div style="background:#F8FAFC;padding:5rem 2rem;">
+  <div style="max-width:1100px;margin:0 auto;">
+    <div style="text-align:center;margin-bottom:2.5rem;">
+      <div class="ll-wyg-tag">Why LegacyLift</div>
+      <div class="ll-wyg-title">Not just another financial app.</div>
+      <div class="ll-wyg-sub">Most tools tell you to budget harder. LegacyLift shows you what you were never taught.</div>
+    </div>
+    <div style="overflow-x:auto;">
+      <table style="width:100%;border-collapse:collapse;font-family:'DM Sans',sans-serif;font-size:.85rem;background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,.08);">
+        <thead>
+          <tr style="background:#0B1724;">
+            <th style="padding:1rem 1.25rem;text-align:left;color:#94a3b8;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;font-weight:500;">Feature</th>
+            <th style="padding:1rem 1.25rem;text-align:center;color:#D4AF37;font-size:.85rem;font-weight:700;letter-spacing:.03em;">LegacyLift</th>
+            <th style="padding:1rem 1.25rem;text-align:center;color:#94a3b8;font-size:.85rem;font-weight:500;">Dave Ramsey</th>
+            <th style="padding:1rem 1.25rem;text-align:center;color:#94a3b8;font-size:.85rem;font-weight:500;">Mint / YNAB</th>
+            <th style="padding:1rem 1.25rem;text-align:center;color:#94a3b8;font-size:.85rem;font-weight:500;">Your Bank App</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="border-bottom:1px solid #f1f5f9;">
+            <td style="padding:.9rem 1.25rem;color:#111827;font-weight:500;">Tax Strategy Lessons</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#16A34A;font-weight:700;font-size:1rem;">&#x2714; 9 lessons</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+          </tr>
+          <tr style="border-bottom:1px solid #f1f5f9;background:#fafafa;">
+            <td style="padding:.9rem 1.25rem;color:#111827;font-weight:500;">Children&rsquo;s Money Curriculum</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#16A34A;font-weight:700;font-size:1rem;">&#x2714; Ages 5&ndash;14</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+          </tr>
+          <tr style="border-bottom:1px solid #f1f5f9;">
+            <td style="padding:.9rem 1.25rem;color:#111827;font-weight:500;">Freedom Score (0&ndash;100)</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#16A34A;font-weight:700;font-size:1rem;">&#x2714;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+          </tr>
+          <tr style="border-bottom:1px solid #f1f5f9;background:#fafafa;">
+            <td style="padding:.9rem 1.25rem;color:#111827;font-weight:500;">Debt Destruction Engine</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#16A34A;font-weight:700;font-size:1rem;">&#x2714; DOLP + Avalanche</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#f59e0b;font-size:.8rem;">Partial</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+          </tr>
+          <tr style="border-bottom:1px solid #f1f5f9;">
+            <td style="padding:.9rem 1.25rem;color:#111827;font-weight:500;">Retirement Planner</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#16A34A;font-weight:700;font-size:1rem;">&#x2714;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#f59e0b;font-size:.8rem;">Partial</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+          </tr>
+          <tr style="border-bottom:1px solid #f1f5f9;background:#fafafa;">
+            <td style="padding:.9rem 1.25rem;color:#111827;font-weight:500;">Cashflow Analyzer (No Bank Login)</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#16A34A;font-weight:700;font-size:1rem;">&#x2714;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#f59e0b;font-size:.8rem;">Requires bank login</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#f59e0b;font-size:.8rem;">Requires bank login</td>
+          </tr>
+          <tr style="border-bottom:1px solid #f1f5f9;">
+            <td style="padding:.9rem 1.25rem;color:#111827;font-weight:500;">Lifetime Plan (Pay Once)</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#16A34A;font-weight:700;font-size:1rem;">&#x2714; $49 forever</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+          </tr>
+          <tr style="background:#fafafa;">
+            <td style="padding:.9rem 1.25rem;color:#111827;font-weight:500;">Free to Start</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#16A34A;font-weight:700;font-size:1rem;">&#x2714;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#ef4444;font-size:1rem;">&#x2715;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#16A34A;font-size:1rem;">&#x2714;</td>
+            <td style="padding:.9rem 1.25rem;text-align:center;color:#16A34A;font-size:1rem;">&#x2714;</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div style="text-align:center;margin-top:2rem;">
+      <p style="font-size:.85rem;color:#6b7280;margin-bottom:1.25rem;">Dave Ramsey teaches discipline. YNAB tracks your spending. LegacyLift teaches you what to do with the money you save &mdash; including the tax strategies most families never learn.</p>
+      <a href="/signup" style="display:inline-block;background:#D4AF37;color:#0B1724;padding:.82rem 2.2rem;border-radius:10px;font-weight:700;font-size:.9rem;text-decoration:none;box-shadow:0 4px 16px rgba(212,175,55,.35);">Start Free &mdash; No Credit Card &rarr;</a>
+    </div>
+  </div>
+</div>
+
 <!-- TESTIMONIALS — dark -->
 <div class="ll-tests">
   <div style="text-align:center;margin-bottom:2.5rem;">
@@ -3214,3 +3300,16 @@ def email_preferences_save():
     flash("Email preferences saved.", "success")
     return redirect(url_for("email_preferences"))
 
+
+
+   
+
+
+  
+
+
+
+  
+  
+ 
+        
